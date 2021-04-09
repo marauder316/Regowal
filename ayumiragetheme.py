@@ -17,7 +17,7 @@ def write_gtk3_css(
     color15,
 ):
     with open(
-        "/home/x1carbon/.themes/Ayu-Mirage-Dark/gtk-3.0/gtk.css", "w"
+        "~/.themes/Ayu-Mirage-Dark/gtk-3.0/gtk.css", "w"
     ) as rofi_file:
         rofi_file_data = (
             """
