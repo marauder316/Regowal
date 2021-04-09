@@ -148,7 +148,7 @@ def save_color_theme(scheme):
         )
     else:
         print(
-            "Not enough colors detected, this happens when there isnt enough colors in the image selected"
+            "Not enough colors detected, this happens when there aren't enough colors in the image selected"
         )
 
 
