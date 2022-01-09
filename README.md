@@ -1,4 +1,4 @@
-***This is a repo I forker as the original creator and maintainer wasn't touched this in ages. It still doesn't work, but I'll be actively making changes with some help from the Regolith Linux community where needed to make this a fully functional tool for Regolith users everywhere.***
+***This is a repo I forked as the original creator and maintainer wasn't touched this in ages. It still doesn't work, but I'll be actively making changes with some help from the Regolith Linux community where needed to make this a fully functional tool for Regolith users everywhere.***
 # Regowal
 
 Regowal is a theme generator for Regolith-linux
